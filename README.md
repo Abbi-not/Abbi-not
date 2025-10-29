@@ -4,7 +4,6 @@
 - 🤖 Passionate about **Artificial Intelligence**, **Android App Development**, and **Web Development**
 - 🌱 Currently studying **Computer Science** at *Hawassa University*
 - 🧩 I enjoy exploring **data mining**, **machine learning**, and **intelligent system design**
-- ⚡ Fun fact: I debug with coffee ☕ and curiosity 😅
 - 📫 Reach me at **abinetargaww@gmail.com**
 
 ---
