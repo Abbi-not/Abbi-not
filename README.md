@@ -30,10 +30,7 @@
 
 ---
 
-## 🏆 Achievements & Highlights
-![Trophy](https://github-profile-trophy.vercel.app/?username=Abbi-not&theme=flat&no-frame=true&no-bg=true&margin-w=15)
 
----
 
 ## 🌐 Connect With Me
 <p align="left">
