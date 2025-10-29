@@ -1,14 +1,11 @@
-- 👋 Hi, I’m Abinet Argaw
-- 👀 I’m interested in AI , Android App developments and Web development 
-- 🌱 I’m currently learning Computer Science in Hawassa University 
-- 📫 How to reach me abinetargaww@gmail.com 
-# 👋 Hey there, I'm Abbi-not!
+
 
 ### 💻 About Me
-- 🌱 I’m currently learning **Python, Machine Learning, and Android Development**
-- 🔭 I love building **smart apps** and exploring **data-driven projects**
-- ⚡ Fun fact: I break code before I make it work 😅
-- 🎯 Goal: To automate everything that can be automated
+- 🤖 I’m passionate about **Artificial Intelligence**, **Android App Development**, and **Web Development**
+- 🌱 Currently studying **Computer Science** at *Hawassa University*
+- 💻 I enjoy turning ideas into real, working projects — from smart apps to intelligent systems
+- ⚡ Fun fact: I debug my bugs with coffee ☕ and stubborn optimism 😅
+- 📫 Reach me anytime at **abinetargaww@gmail.com**
 
 ---
 
