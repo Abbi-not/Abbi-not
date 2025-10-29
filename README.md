@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Abbi-not!
+# 👋 Hey there, I'm አብነት!
 
 ### 💡 About Me
 - 🤖 Passionate about **Artificial Intelligence**, **Android App Development**, and **Web Development**
